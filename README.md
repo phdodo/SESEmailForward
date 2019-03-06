@@ -1,3 +1,5 @@
+Cloned from AshanFernando (https://github.com/AshanFernando/SESEmailForward) to update node version
+
 # SESEmailForward
 Amazon SES Email Forward to Your Inbox
 
